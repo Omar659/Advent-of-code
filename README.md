@@ -1,2 +1,2 @@
 # Advent-of-code
-Advent of code solutions from 2023 onwards.
+Advent of code solutions
